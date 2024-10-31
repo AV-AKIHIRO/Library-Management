@@ -1,0 +1,12 @@
+10001 0 10006 Sherlock Holmes
+10002 1 NULL Rich Dad Poor Dad
+10003 0 10009 Alchemist
+10004 1 NULL The Origin of Species
+10005 0 10003 Lets talk about money
+10006 1 NULL The monk who Lost his Ferrari
+10007 1 NULL The Intelligent Investor
+10008 1 NULL The classroom of the Elite
+10009 0 10009 Harry_Potter
+10010 1 NULL Time_pass
+10014 0 10009 AIML
+10015 1 NULL HOliday
